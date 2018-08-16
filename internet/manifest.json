@@ -1,0 +1,58 @@
+{
+    "name"          : "Stuff from the Internet",
+    "key"           : "internet",
+    "description"   : "All the garbage you know and love.",
+    "clips": [
+        {
+            "name": "consequences",
+            "help": "When will you learn‽",
+            "path": "consequences.mp3"
+        },
+        {
+            "name": "anime",
+            "help": "Righteous fury!",
+            "path": "anime.mp3"
+        },
+        {
+            "name": "curb",
+            "help": "Oh geez there Larry.",
+            "path": "curb-your-enthusiasm.mp3"
+        },
+        {
+            "name": "kermit",
+            "help": "RIP little green friend.",
+            "path": "kermit-suicide.mp3"
+        },
+        {
+            "name": "dejavu",
+            "help": "Running in the 90s.",
+            "path": "deja-vu.mp3"
+        },
+        {
+            "name": "no",
+            "help": "DO NOT WAAAANT!",
+            "path": "nooo.mp3"
+        },
+        {
+            "name": "didimissit",
+            "help": "It's all over now.",
+            "path": "did-i-miss-it.mp3"
+        },
+        {
+            "name": "favre",
+            "help": "They're gonna kick some alien butt!",
+            "path": "help-brett-favre.mp3"
+        }
+        ,
+        {
+            "name": "favre",
+            "help": "They're gonna kick some alien butt!",
+            "path": "help-brett-favre.mp3"
+        },
+        {
+            "name": "chillfully",
+            "help": "It's going well.",
+            "path": "its-going-chillfully.mp3"
+        }
+    ]
+}

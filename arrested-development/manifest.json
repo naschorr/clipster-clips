@@ -1,0 +1,37 @@
+{
+    "name"          : "Arrested Development",
+    "key"           : "arrested",
+    "description"   : "Ron Howard's best lines",
+    "clips": [
+        {
+            "name": "soldier",
+            "help": "A better soldier.",
+            "path": "soldier.mp3"
+        },
+        {
+            "name": "isnt",
+            "help": "It definitely isn't.",
+            "path": "it-isnt.mp3"
+        },
+        {
+            "name": "alone",
+            "help": "Always alone.",
+            "path": "alone.mp3"
+        },
+        {
+            "name": "wasnt",
+            "help": "He really wasn't.",
+            "path": "he-wasnt.mp3"
+        },
+        {
+            "name": "juice",
+            "help": "GIVE HIM THE JUICE!",
+            "path": "juice.mp3"
+        },
+        {
+            "name": "dozens",
+            "help": "DOZENS OF US!",
+            "path": "dozens.mp3"
+        }
+    ]
+}
