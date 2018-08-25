@@ -53,6 +53,11 @@
             "name": "chillfully",
             "help": "It's going well.",
             "path": "its-going-chillfully.mp3"
+        },
+        {
+            "name": "people",
+            "help": "Can't trust 'em.",
+            "path": "people.mp3"
         }
     ]
 }
