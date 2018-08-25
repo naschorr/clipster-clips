@@ -58,6 +58,16 @@
             "name": "people",
             "help": "Can't trust 'em.",
             "path": "people.mp3"
+        },
+        {
+            "name": "no",
+            "help": "It just doesn't add up.",
+            "path": "no.mp3"
+        },
+        {
+            "name": "eternity",
+            "help": "One eternity later.",
+            "path": "one-eternity-later.mp3"
         }
     ]
 }
