@@ -68,6 +68,11 @@
             "name": "eternity",
             "help": "One eternity later.",
             "path": "one-eternity-later.mp3"
+        },
+        {
+            "name": "nope",
+            "help": "Nope.",
+            "path": "nope.mp3"
         }
     ]
 }
