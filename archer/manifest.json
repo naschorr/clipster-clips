@@ -42,6 +42,11 @@
             "name": "crepuscular",
             "help": "Get 'em, boys!",
             "path": "hes-crepuscular.mp3"
+        },
+        {
+            "name": "jackin",
+            "help": "Just jackin' in.",
+            "path": "just-jackin-it.mp3"
         }
     ]
 }
