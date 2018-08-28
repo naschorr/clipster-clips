@@ -4,49 +4,47 @@
     "description": "The best lines from Archer",
     "clips": [
         {
-            "name": "fortkickass",
-            "help": "Your authority isn't recognized!",
-            "path": "fort-kickass.mp3"
+            "name":     "fortkickass",
+            "aliases":  ["kickass"],
+            "help":     "Your authority isn't recognized!",
+            "path":     "fort-kickass.mp3"
         },
         {
-            "name": "phrasing",
-            "help": "Are we done with it?",
-            "path": "phrasing.mp3"
+            "name":     "phrasing",
+            "help":     "Are we done with it?",
+            "path":     "phrasing.mp3"
         },
         {
-            "name": "erect",
-            "help": "STOP! It's getting too erect.",
-            "path": "erect.mp3"
+            "name":     "erect",
+            "help":     "STOP! It's getting too erect.",
+            "path":     "erect.mp3"
         },
         {
-            "name": "dangerzone",
-            "help": "LANAAAAAAA!",
-            "path": "danger-zone.mp3"
+            "name":     "dangerzone",
+            "help":     "LANAAAAAAA!",
+            "path":     "danger-zone.mp3"
         },
         {
-            "name": "50cal",
-            "help": "I could kill a building.",
-            "path": "50-cal.mp3"
+            "name":     "50cal",
+            "aliases":  ["barret", "50"],
+            "help":     "I could kill a building.",
+            "path":     "50-cal.mp3"
         },
         {
-            "name": "lube",
-            "help": "Really, even some olive oil.",
-            "path": "lube.mp3"
+            "name":     "neat",
+            "help":     "It's a long story, mother.",
+            "path":     "neat.mp3"
         },
         {
-            "name": "neat",
-            "help": "It's a long story, mother.",
-            "path": "neat.mp3"
+            "name":     "crepuscular",
+            "help":     "Get 'em, boys!",
+            "path":     "hes-crepuscular.mp3"
         },
         {
-            "name": "crepuscular",
-            "help": "Get 'em, boys!",
-            "path": "hes-crepuscular.mp3"
-        },
-        {
-            "name": "jackin",
-            "help": "Just jackin' in.",
-            "path": "just-jackin-it.mp3"
+            "name":     "jackin",
+            "aliases":  ["jacking", "jerkin", "jerking", "justjackingit"],
+            "help":     "Just jackin' in.",
+            "path":     "just-jackin-it.mp3"
         }
     ]
 }
