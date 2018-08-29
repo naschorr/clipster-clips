@@ -75,6 +75,18 @@
             "aliases":  ["nudetayne"],
             "help":     "This is not suitable for work.",
             "path":     "oh-shit-im-okay.mp3"
+        },
+        {
+            "name":     "goofin",
+            "aliases":  ["goofing", "newboots", "newbootgoofin"],
+            "help":     "Genuine ostrich. Three payments.",
+            "path":     "new-boot-goofin.mp3"
+        },
+        {
+            "name":     "thatsmypurse",
+            "aliases":  ["mypurse", "idontknowyou"],
+            "help":     "Don't be afraid to shout it.",
+            "path":     "thats-my-purse.mp3"
         }
     ]
 }
