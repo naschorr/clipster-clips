@@ -1,0 +1,45 @@
+{
+    "name"          : "Team Fortress 2",
+    "key"           : "tf2",
+    "description"   : "The best voice lines from the Valve classic.",
+    "clips": [
+        {
+            "name":     "nope",
+            "help":     "Nope.",
+            "path":     "engineer-nope.mp3"
+        },
+        {
+            "name":     "babies",
+            "help":     "All of you are babies!",
+            "path":     "heavy-fighting-babies.mp3"
+        },
+        {
+            "name":     "goodteam",
+            "help":     "We make good team!",
+            "path":     "heavy-we-make-good-team.mp3"
+        },
+        {
+            "name":     "yes",
+            "aliases":  ["ya", "yeah", "ye"],
+            "help":     "Yes!",
+            "path":     "heavy-yes.mp3"
+        },
+        {
+            "name":     "disappointment",
+            "aliases":  ["disappoint"],
+            "help":     "It certainly was a disappointment.",
+            "path":     "spy-disappointment.mp3"
+        },
+        {
+            "name":     "thanks",
+            "aliases":  ["ty"],
+            "help":     "Thanks mate!",
+            "path":     "sniper-thanks-mate.mp3"
+        },
+        {
+            "name":     "drunk",
+            "help":     "You don't have an excuse!",
+            "path":     "demo-drunk.mp3"
+        }
+    ]
+}
