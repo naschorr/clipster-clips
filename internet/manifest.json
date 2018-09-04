@@ -100,6 +100,12 @@
             "aliases":  ["tmyk", "psa"],
             "help":     "This is a public service announcement.",
             "path":     "the-more-you-know.mp3"
+        },
+        {
+            "name":     "thatboyaintright",
+            "aliases":  ["aintright"],
+            "help":     "It's toilet sounds! I got it at the mall.",
+            "path":     "that-boy-aint-right.mp3"
         }
     ]
 }
