@@ -106,6 +106,37 @@
             "aliases":  ["aintright"],
             "help":     "It's toilet sounds! I got it at the mall.",
             "path":     "that-boy-aint-right.mp3"
+        },
+        {
+            "name":     "memes",
+            "help":     "You will NEVER forget these.",
+            "path":     "memes-you-will-never-forget.mp3"
+        },
+        {
+            "name":     "lying",
+            "aliases":  ["lyin", "whyyoualwayslying", "stoplying", "stoplyin"],
+            "help":     "Why you always lying?",
+            "path":     "why-you-always-lying.mp3"
+        },
+        {
+            "name":     "yeahboy",
+            "help":     "My longest ever!",
+            "path":     "yeah-boy.mp3"
+        },
+        {
+            "name":     "jellybeans",
+            "help":     "To make a long story short...",
+            "path":     "an-entire-bag-of-jelly-beans.mp3"
+        },
+        {
+            "name":     "freaky",
+            "help":     "This is four quarters.",
+            "path":     "this-is-four-quarters.mp3"
+        },
+        {
+            "name":     "stopit",
+            "help":     "A message from Michael Jordan.",
+            "path":     "stop-it-get-some-help.mp3"
         }
     ]
 }
