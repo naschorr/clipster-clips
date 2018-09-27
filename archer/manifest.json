@@ -4,47 +4,52 @@
     "description": "The best lines from Archer",
     "clips": [
         {
-            "name":     "fortkickass",
-            "aliases":  ["kickass"],
-            "help":     "Your authority isn't recognized!",
-            "path":     "fort-kickass.mp3"
+            "name":         "fortkickass",
+            "description":  "im sorry are you addressing me because your authority is not recognized in fort kickass kick ass",
+            "help":         "Your authority isn't recognized!",
+            "path":         "fort-kickass.mp3"
         },
         {
-            "name":     "phrasing",
-            "help":     "Are we done with it?",
-            "path":     "phrasing.mp3"
+            "name":         "phrasing",
+            "description":  "so were just done with phrasing right thats not a thing anymore",
+            "help":         "Are we done with it?",
+            "path":         "phrasing.mp3"
         },
         {
-            "name":     "erect",
-            "help":     "STOP! It's getting too erect.",
-            "path":     "erect.mp3"
+            "name":         "erect",
+            "description":  "stop my penis can only get so erect",
+            "help":         "STOP! It's getting too erect.",
+            "path":         "erect.mp3"
         },
         {
-            "name":     "dangerzone",
-            "help":     "LANAAAAAAA!",
-            "path":     "danger-zone.mp3"
+            "name":         "dangerzone",
+            "description":  "lana lana laaaanaaaaa what danger zone",
+            "help":         "LANAAAAAAA!",
+            "path":         "danger-zone.mp3"
         },
         {
-            "name":     "50cal",
-            "aliases":  ["barret", "50"],
-            "help":     "I could kill a building.",
-            "path":     "50-cal.mp3"
+            "name":         "50cal",
+            "description":  "big whoop im spooning a barret 50 cal i could kill a building",
+            "help":         "I could kill a building.",
+            "path":         "50-cal.mp3"
         },
         {
-            "name":     "neat",
-            "help":     "It's a long story, mother.",
-            "path":     "neat.mp3"
+            "name":         "neat",
+            "description":  "neat",
+            "help":         "It's a long story, mother.",
+            "path":         "neat.mp3"
         },
         {
-            "name":     "crepuscular",
-            "help":     "Get 'em, boys!",
-            "path":     "hes-crepuscular.mp3"
+            "name":         "crepuscular",
+            "description":  "hes crepuscular get em boys",
+            "help":         "Get 'em, boys!",
+            "path":         "hes-crepuscular.mp3"
         },
         {
-            "name":     "jackin",
-            "aliases":  ["jacking", "jerkin", "jerking", "justjackingit"],
-            "help":     "Just jackin' in.",
-            "path":     "just-jackin-it.mp3"
+            "name":         "jackin",
+            "description":  "just jackin it",
+            "help":         "Just jackin' in.",
+            "path":         "just-jackin-it.mp3"
         }
     ]
 }

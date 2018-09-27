@@ -1,89 +1,103 @@
 {
     "name": "Always Sunny",
     "key": "always-sunny",
-    "description": "The gang's best lines",
+    "description": "Some of the gang's best lines",
     "clips": [
         {
-            "name":     "addicted",
-            "help":     "Aww, did someone get addicted to crack?",
-            "path":     "addicted.mp3"
+            "name":         "addicted",
+            "help":         "Aww, did someone get addicted to crack?",
+            "description":  "oh im sorry did someone get addicted to crack did someone get addicted to crack",
+            "path":         "addicted.mp3"
         },
         {
-            "name":     "crack",
-            "aliases":  ["welfare"],
-            "help":     "He just wants to help.",
-            "path":     "crack.mp3"
+            "name":         "crack",
+            "help":         "He just wants to help.",
+            "description":  "hi im a recovered crack head and this is my donkey brained sister that i take care of id like some welfare please",
+            "path":         "crack.mp3"
         },
         {
-            "name":     "eatbabies",
-            "help":     "She'll eat them.",
-            "path":     "eat-your-babies.mp3"
+            "name":         "eatbabies",
+            "help":         "She'll eat them.",
+            "description":  "i will eat your babies bitch",
+            "path":         "eat-your-babies.mp3"
         },
         {
-            "name":     "government",
-            "help":     "Modern politics.",
-            "path":     "government.mp3"
+            "name":         "government",
+            "help":         "Modern politics.",
+            "description":  "who am i supposed to vote for the republican whose blasting me in the ass or the democrat whose blasting me in the ass",
+            "path":         "government.mp3"
         },
         {
-            "name":     "job",
-            "aliases":  ["jobbies"],
-            "help":     "Oh, it's that simple!",
-            "path":     "job.mp3"
+            "name":         "job",
+            "help":         "Oh, it's that simple!",
+            "description":  "job just get a job strap on my job helmet and squeeze down into a job cannon and fire off into job land where jobs grow on jobbies",
+            "path":         "job.mp3"
         },
         {
-            "name":     "jot",
-            "help":     "All things are possible.",
-            "path":     "jot-that-down.mp3"
+            "name":         "jot",
+            "help":         "All things are possible.",
+            "description":  "well first of all through god all things are possible so jot that down",
+            "path":         "jot-that-down.mp3"
         },
         {
-            "name":     "pure",
-            "help":     "He just wants to be pure.",
-            "path":     "pure.mp3"
+            "name":         "pure",
+            "help":         "He just wants to be pure.",
+            "description":  "i just wanna be pure",
+            "path":         "pure.mp3"
         },
         {
-            "name":     "rockflageagle",
-            "help":     "A real American hero.",
-            "path":     "rock-flag-eagle.mp3"
+            "name":         "rockflageagle",
+            "help":         "A real American hero.",
+            "description":  "gonna rise up gonna kick a little ass gonna kick some ass in the usa gonna climb a mountain gonna sew a flag gonna fly like an eagle im gonna kick some butt gonna drive a big truck gonna rule this world gonna kick some ass gonna rise up gonna kick a little ass rock flag and eagle",
+            "path":         "rock-flag-eagle.mp3"
         },
         {
-            "name":     "smell",
-            "help":     "She didn't think of it.",
-            "path":     "smell.mp3"
+            "name":         "smell",
+            "help":         "She didn't think of it.",
+            "description":  "think of the smell you havent thought of the smell you bitch",
+            "path":         "smell.mp3"
         },
         {
-            "name":     "suicide",
-            "help":     "A loving friendship.",
-            "path":     "suicide.mp3"
+            "name":         "suicide",
+            "help":         "A loving friendship.",
+            "description":  "it looks like he may commit suicide suicide is bad ass",
+            "path":         "suicide.mp3"
         },
         {
-            "name":     "tools",
-            "help":     "A specific need.",
-            "path":     "tools.mp3"
+            "name":         "tools",
+            "help":         "A specific need.",
+            "description":  "tools tools this is duct tape zip ties and gloves i have to have my tools i like to bind i like to be bound",
+            "path":         "tools.mp3"
         },
         {
-            "name":     "vote",
-            "help":     "The importance of local government.",
-            "path":     "vote.mp3"
+            "name":         "vote",
+            "help":         "The importance of local government.",
+            "description":  "hello fellow american this you should vote me i leave power good thank you thank you if you vote me im hot taxes theyll be lower son the democratic vote for me is right thing to do philadelphia so do",
+            "path":         "vote.mp3"
         },
         {
-            "name":     "wildcard",
-            "help":     "I CUT THE BRAKES!",
-            "path":     "wild-card.mp3"
+            "name":         "wildcard",
+            "help":         "I CUT THE BRAKES!",
+            "description":  "wildcard bitches yee haw",
+            "path":         "wild-card.mp3"
         },
         {
-            "name":     "untethered",
-            "help":     "MY RAGE KNOWS NO BOUNDS!",
-            "path":     "untethered.mp3"
+            "name":         "untethered",
+            "help":         "MY RAGE KNOWS NO BOUNDS!",
+            "description":  "i am untethered an my rage knows no bounds",
+            "path":         "untethered.mp3"
         },
         {
-            "name":     "convictions",
-            "help":     "A honorable man.",
-            "path":     "convictions.mp3"
+            "name":         "convictions",
+            "help":         "A honorable man.",
+            "description":  "are you actually gonna throw away all of your convictions for a chance to get laid i dont really have any convictions",
+            "path":         "convictions.mp3"
         },
         {
-            "name":     "smash",
-            "help":     "Into a JELLY!",
-            "path":     "smash.mp3"
+            "name":         "smash",
+            "help":         "Into a JELLY!",
+            "description":  "i will smash your face into a jelly",
+            "path":         "smash.mp3"
         }
     ]
 }

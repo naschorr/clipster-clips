@@ -4,35 +4,40 @@
     "description"   : "Ron Howard's best lines",
     "clips": [
         {
-            "name":     "soldier",
-            "help":     "A better soldier.",
-            "path":     "soldier.mp3"
+            "name":         "soldier",
+            "description":  "it was fun but it wasnt making him a better soldier",
+            "help":         "A better soldier.",
+            "path":         "soldier.mp3"
         },
         {
-            "name":     "isnt",
-            "help":     "It definitely isn't.",
-            "path":     "it-isnt.mp3"
+            "name":         "isnt",
+            "description":  "it isnt",
+            "help":         "It definitely isn't.",
+            "path":         "it-isnt.mp3"
         },
         {
-            "name":     "alone",
-            "help":     "Always alone.",
-            "path":     "alone.mp3"
+            "name":         "alone",
+            "description":  "hey pal you alone almost always yeah",
+            "help":         "Always alone.",
+            "path":         "alone.mp3"
         },
         {
-            "name":     "wasnt",
-            "help":     "He really wasn't.",
-            "path":     "he-wasnt.mp3"
+            "name":         "wasnt",
+            "description":  "but he wasnt",
+            "help":         "He really wasn't.",
+            "path":         "he-wasnt.mp3"
         },
         {
-            "name":     "juice",
-            "help":     "GIVE HIM THE JUICE!",
-            "path":     "juice.mp3"
+            "name":         "juice",
+            "description":  "wheres the juice give my son the juice",
+            "help":         "GIVE HIM THE JUICE!",
+            "path":         "juice.mp3"
         },
         {
-            "name":     "dozens",
-            "aliases":  ["nevernude"],
-            "help":     "DOZENS OF US!",
-            "path":     "dozens.mp3"
+            "name":         "dozens",
+            "description":  "there are dozens of us dozens",
+            "help":         "DOZENS OF US!",
+            "path":         "dozens.mp3"
         }
     ]
 }
