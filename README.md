@@ -1,5 +1,5 @@
 # clipster-clips
-Additional clips for my sound clip playing Discord bot, Clipster
+Additional sounds for the Discord soundboard bot, Clipster. Check it out [here](https://github.com/naschorr/clipster).
 
 ## Installation (Partial)
 - Download the zipped list of phrases [here](https://github.com/naschorr/clipster-clips/archive/master.zip), or by hitting the green 'Clone or Download' button for this repository.
