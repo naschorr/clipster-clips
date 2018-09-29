@@ -152,6 +152,12 @@
             "description":  "stop it get some help michael jordan",
             "help":         "A message from Michael Jordan.",
             "path":         "stop-it-get-some-help.mp3"
+        },
+        {
+            "name":         "failed",
+            "description":  "call of duty cod mission failed well get them next time",
+            "help":         "Mission failed.",
+            "path":         "mission-failed.mp3"
         }
     ]
 }
