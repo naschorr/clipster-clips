@@ -158,6 +158,24 @@
             "description":  "call of duty cod mission failed well get them next time",
             "help":         "Mission failed.",
             "path":         "mission-failed.mp3"
+        },
+        {
+            "name":         "somuchfun",
+            "description":  "bear suit guy he was having so much fun he decided to throw himself down a ravine",
+            "help":         "He was having so much fun!",
+            "path":         "he-was-having-so-much-fun.mp3"
+        },
+        {
+            "name":         "realestate",
+            "description":  "its free real estate tim and eric",
+            "help":         "It's a free house for ya, Jim!",
+            "path":         "free-real-estate.mp3"
+        },
+        {
+            "name":         "insubordinate",
+            "description":  "insubordinate and churlish key and peele aaron substitute teacher",
+            "help":         "Ya done messed up A-a-ron!",
+            "path":         "insubordinate-and-churlish.mp3"
         }
     ]
 }
