@@ -176,6 +176,12 @@
             "description":  "insubordinate and churlish key and peele aaron substitute teacher",
             "help":         "Ya done messed up A-a-ron!",
             "path":         "insubordinate-and-churlish.mp3"
+        },
+        {
+            "name":         "iwouldificould",
+            "description":  "i would if i could bitch",
+            "help":         "Hahaha, I would if I could!",
+            "path":         "i-would-if-i-could.mp3"
         }
     ]
 }
