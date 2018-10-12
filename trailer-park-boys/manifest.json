@@ -26,6 +26,12 @@
             "description":  "mr lahey is that you talking or the liquor randy i am the liquor",
             "help":         "I am the liquor.",
             "path":         "i-am-the-liquor.mp3"
+        },
+        {
+            "name":         "frigoff",
+            "description":  "frig off barb randy",
+            "help":         "Frig off barb.",
+            "path":         "frig-off-barb.mp3"
         }
     ]
 }
