@@ -1,0 +1,85 @@
+{
+    "name"          : "Miscellaneous",
+    "key"           : "misc",
+    "description"   : "Garbage that doesn't fit anywhere else.",
+    "clips": [
+        {
+            "name":         "curb",
+            "description":  "curb your enthusiasm theme song larry david",
+            "help":         "Oh geez there Larry.",
+            "path":         "curb-your-enthusiasm.mp3"
+        },
+        {
+            "name":         "didimissit",
+            "description":  "did i miss it",
+            "help":         "It's all over now.",
+            "path":         "did-i-miss-it.mp3"
+        },
+        {
+            "name":         "favre",
+            "description":  "so dont wait help brett favre and the boys kick some alien butt",
+            "help":         "They're gonna kick some alien butt!",
+            "path":         "help-brett-favre.mp3"
+        },
+        {
+            "name":         "people",
+            "description":  "people like coldplay and voted for the nazis you cant trust people",
+            "help":         "Can't trust 'em.",
+            "path":         "people.mp3"
+        },
+        {
+            "name":         "goofin",
+            "description":  "im just goofing new boot goofin oh",
+            "help":         "Genuine ostrich. Three payments.",
+            "path":         "new-boot-goofin.mp3"
+        },
+        {
+            "name":         "thatsmypurse",
+            "description":  "thats my purse i dont know you",
+            "help":         "Don't be afraid to shout it.",
+            "path":         "thats-my-purse.mp3"
+        },
+        {
+            "name":         "thatboyaintright",
+            "description":  "that boy aint right",
+            "help":         "It's toilet sounds! I got it at the mall.",
+            "path":         "that-boy-aint-right.mp3"
+        },
+        {
+            "name":         "memes",
+            "description":  "theres a hierarchy of memes theres some that are memorable for a while and then you forget them and then there are some that are way more memorable then right at the top there are memes that you will never forget",
+            "help":         "You will NEVER forget these.",
+            "path":         "memes-you-will-never-forget.mp3"
+        },
+        {
+            "name":         "jellybeans",
+            "description":  "to make a whole fuckin long story short i put a whole bag of jelly beans up my ass",
+            "help":         "To make a long story short...",
+            "path":         "an-entire-bag-of-jelly-beans.mp3"
+        },
+        {
+            "name":         "freaky",
+            "description":  "this is four quarters of unadulterated freaky shit motha fucker",
+            "help":         "This is four quarters.",
+            "path":         "this-is-four-quarters.mp3"
+        },
+        {
+            "name":         "somuchfun",
+            "description":  "bear suit guy he was having so much fun he decided to throw himself down a ravine",
+            "help":         "He was having so much fun!",
+            "path":         "he-was-having-so-much-fun.mp3"
+        },
+        {
+            "name":         "iwouldificould",
+            "description":  "i would if i could bitch",
+            "help":         "Hahaha, I would if I could!",
+            "path":         "i-would-if-i-could.mp3"
+        },
+        {
+            "name":         "nude",
+            "description":  "you can do it in the nude bill burr",
+            "help":         "You can do it in the nude!",
+            "path":         "in-the-nude.mp3"
+        }
+    ]
+}

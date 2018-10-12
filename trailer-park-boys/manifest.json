@@ -1,0 +1,31 @@
+{
+    "name"          : "Trailer Park Boys",
+    "key"           : "tpb",
+    "description"   : "Sunnyvale's finest lines",
+    "clips": [
+        {
+            "name":         "cheeseburgers",
+            "description":  "youre prostituting yourself out for cheeseburgers again randy",
+            "help":         "A man's gotta eat.",
+            "path":         "cheeseburger-prostitution.mp3"
+        },
+        {
+            "name":         "eerie",
+            "description":  "its just not right its really eerie here somethings fucky bubbles",
+            "help":         "Spooky scary.",
+            "path":         "eerie.mp3"
+        },
+        {
+            "name":         "ravioli",
+            "description":  "i mean nobody wants to admit that they ate nine cans of ravioli but i did im ashamed of myself ricky",
+            "help":         "I'm ashamed of myself.",
+            "path":         "eerie.mp3"
+        },
+        {
+            "name":         "liquor",
+            "description":  "mr lahey is that you talking or the liquor randy i am the liquor",
+            "help":         "I am the liquor.",
+            "path":         "i-am-the-liquor.mp3"
+        }
+    ]
+}
