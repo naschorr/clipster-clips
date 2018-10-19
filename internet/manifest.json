@@ -116,6 +116,24 @@
             "description":  "its a whore stealing our lemons",
             "help":         "Key lemon pie.",
             "path":         "lemon-stealing.mp3"
+        },
+        {
+            "name":         "yakety",
+            "description":  "yakety sax benny hill theme",
+            "help":         "Yakety sax!",
+            "path":         "yakety-sax.mp3"
+        },
+        {
+            "name":         "lifealert",
+            "description":  "help ive fallen and i cant get up",
+            "help":         "I've fallen, and I can't get up!",
+            "path":         "life-alert.mp3"
+        },
+        {
+            "name":         "lies",
+            "description":  "you really think someone would do that just go on the internet and tell lies",
+            "help":         "... just go on the internet and tell lies?",
+            "path":         "arthur-tell-lies.mp3"
         }
     ]
 }
