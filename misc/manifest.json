@@ -80,6 +80,42 @@
             "description":  "you can do it in the nude bill burr",
             "help":         "You can do it in the nude!",
             "path":         "in-the-nude.mp3"
+        },
+        {
+            "name":         "tryitout",
+            "description":  "try it out man ymh",
+            "help":         "Free food, rent, and a key!",
+            "path":         "try-it-out.mp3"
+        },
+        {
+            "name":         "massive",
+            "description":  "god that is massive",
+            "help":         "God, that's massive!",
+            "path":         "massive.mp3"
+        },
+        {
+            "name":         "humongous",
+            "description":  "ultra humongous humungus humongus penis",
+            "help":         "ULTRA HUMONGOUS",
+            "path":         "ultra-humongous.mp3"
+        },
+        {
+            "name":         "retarded",
+            "description":  "association for retarded citizens",
+            "help":         "Association for Retarded Citizens",
+            "path":         "association-for-retarted-citizens.mp3"
+        },
+        {
+            "name":         "hellnaw",
+            "description":  "hell to the naw song",
+            "help":         "Hell naw, to the naw naw naw.",
+            "path":         "hell-naw.mp3"
+        },
+        {
+            "name":         "easy",
+            "description":  "this shit should be easy",
+            "help":         "This shit should be easy!",
+            "path":         "easy.mp3"
         }
     ]
 }

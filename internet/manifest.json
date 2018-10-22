@@ -132,8 +132,38 @@
         {
             "name":         "lies",
             "description":  "you really think someone would do that just go on the internet and tell lies",
-            "help":         "... just go on the internet and tell lies?",
+            "help":         "...just go on the internet and tell lies?",
             "path":         "arthur-tell-lies.mp3"
+        },
+        {
+            "name":         "wrong",
+            "description":  "wrong trump",
+            "help":         "Wrong.",
+            "path":         "wrong.mp3"
+        },
+        {
+            "name":         "novictory",
+            "description":  "we dont have victories anymore trump",
+            "help":         "We don't have victories anymore.",
+            "path":         "we-dont-have-victories.mp3"
+        },
+        {
+            "name":         "incompetent",
+            "description":  "i happen to think that theyre incompetent trump",
+            "help":         "I think they're incompetent!",
+            "path":         "theyre-incompetent.mp3"
+        },
+        {
+            "name":         "verylong",
+            "description":  "very long and very hard trump",
+            "help":         "Very long, and very hard...",
+            "path":         "very-long-very-hard.mp3"
+        },
+        {
+            "name":         "ytmnd",
+            "description":  "your the man now dog ytmnd",
+            "help":         "You're the man now, dog!",
+            "path":         "ytmnd.mp3"
         }
     ]
 }
