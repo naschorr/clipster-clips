@@ -164,6 +164,12 @@
             "description":  "your the man now dog ytmnd",
             "help":         "You're the man now, dog!",
             "path":         "ytmnd.mp3"
+        },
+        {
+            "name":         "profanity",
+            "description":  "watch your profanity",
+            "help":         "Watch yo profamity!",
+            "path":         "watch-yo-profanity.mp3"
         }
     ]
 }

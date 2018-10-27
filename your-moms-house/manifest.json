@@ -1,0 +1,73 @@
+{
+    "name"          : "Your Mom's House Podcast",
+    "key"           : "ymh",
+    "description"   : "Welcome to your mom's house.",
+    "clips": [
+        {
+            "name":         "tryitout",
+            "description":  "try it out man ymh",
+            "help":         "Free food, rent, and a key!",
+            "path":         "try-it-out.mp3"
+        },
+        {
+            "name":         "massive",
+            "description":  "god that is massive",
+            "help":         "God, that's massive!",
+            "path":         "massive.mp3"
+        },
+        {
+            "name":         "humongous",
+            "description":  "ultra humongous humungus humongus penis",
+            "help":         "ULTRA HUMONGOUS",
+            "path":         "ultra-humongous.mp3"
+        },
+        {
+            "name":         "retarded",
+            "description":  "association for retarded citizens",
+            "help":         "Association for Retarded Citizens",
+            "path":         "association-for-retarded-citizens.mp3"
+        },
+        {
+            "name":         "hellnaw",
+            "description":  "hell naw song",
+            "help":         "Hell naw, to the naw naw naw.",
+            "path":         "hell-naw.mp3"
+        },
+        {
+            "name":         "easy",
+            "description":  "this shit should be easy",
+            "help":         "This shit should be easy!",
+            "path":         "easy.mp3"
+        },
+        {
+            "name":         "camp",
+            "description":  "fuckin fucking camp",
+            "help":         "I hate going to camp.",
+            "path":         "camp.mp3"
+        },
+        {
+            "name":         "bigwords",
+            "description":  "big words",
+            "help":         "Big words, yaknow?",
+            "path":         "big-words.mp3"
+        },
+        {
+            "name":         "gays",
+            "description":  "its just like the gays",
+            "help":         "Familial love.",
+            "path":         "just-like-the-gays.mp3"
+        },
+        {
+            "name":         "holycrabapples",
+            "description":  "holy crabapples",
+            "help":         "Watch yo profamity!",
+            "path":         "holy-crabapples.mp3"
+        },
+        {
+            "name":         "tits",
+            "description":  "do you like big tits",
+            "help":         "Do you like 'em?",
+            "path":         "big-tits.mp3"
+        }
+    ]
+}
