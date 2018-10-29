@@ -176,6 +176,12 @@
             "description":  "its called hentai and its art",
             "help":         "Ah, I see you're a man of culture",
             "path":         "hentai.mp3"
+        },
+        {
+            "name":         "grapefruit",
+            "description":  "grapefruit technique",
+            "help":         "You can burn fat, too!",
+            "path":         "grapefruit-technique.mp3"
         }
     ]
 }
