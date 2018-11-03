@@ -116,6 +116,12 @@
             "description":  "noo",
             "help":         "DO NOT WAAAANT!",
             "path":         "nooo.mp3"
+        },
+        {
+            "name":         "shoot",
+            "description":  "buddy i am gonna shoot you in the face",
+            "help":         "Buddy! I'm gonna shoot you in the FACE!",
+            "path":         "shoot-you-in-the-face.mp3"
         }
     ]
 }
