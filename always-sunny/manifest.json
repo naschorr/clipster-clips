@@ -98,6 +98,12 @@
             "help":         "Into a JELLY!",
             "description":  "i will smash your face into a jelly",
             "path":         "smash.mp3"
+        },
+        {
+            "name":         "youknowwhatitis",
+            "help":         "I'm going for GASPS!",
+            "description":  "you know what it is bitch",
+            "path":         "you-know-what-it-is.mp3"
         }
     ]
 }
