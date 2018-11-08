@@ -182,6 +182,12 @@
             "description":  "grapefruit technique",
             "help":         "You can burn fat, too!",
             "path":         "grapefruit-technique.mp3"
+        },
+        {
+            "name":         "evil",
+            "description":  "even now the evil seed of what youve done germinates within you",
+            "help":         "It germinates within you!",
+            "path":         "the-evil-seed.mp3"
         }
     ]
 }
