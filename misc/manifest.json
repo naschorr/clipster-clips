@@ -86,6 +86,12 @@
             "description":  "cricket sound effect",
             "help":         "The sound of crickets.",
             "path":         "crickets.mp3"
+        },
+        {
+            "name":         "abouttobust",
+            "description":  "whew im about to bust",
+            "help":         "Hank Hill speaks the good word.",
+            "path":         "about-to-bust.mp3"
         }
     ]
 }
