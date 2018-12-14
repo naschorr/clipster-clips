@@ -92,6 +92,12 @@
             "description":  "whew im about to bust",
             "help":         "Hank Hill speaks the good word.",
             "path":         "about-to-bust.mp3"
+        },
+        {
+            "name":         "lube",
+            "description":  "theres always time for lubricant lube",
+            "help":         "There's ALWAYS time for it",
+            "path":         "theres-always-time-for-lube.mp3"
         }
     ]
 }
