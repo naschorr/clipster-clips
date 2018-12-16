@@ -89,15 +89,21 @@
         },
         {
             "name":         "abouttobust",
-            "description":  "whew im about to bust",
+            "description":  "whew im about to bust hank hill",
             "help":         "Hank Hill speaks the good word.",
             "path":         "about-to-bust.mp3"
         },
         {
             "name":         "lube",
             "description":  "theres always time for lubricant lube",
-            "help":         "There's ALWAYS time for it",
+            "help":         "There's ALWAYS time for it!",
             "path":         "theres-always-time-for-lube.mp3"
+        },
+        {
+            "name":         "andsoidid",
+            "description":  "you do not say no you do not think about it you come instantly and so i did doug demuro",
+            "help":         "Now THOSE are some quirks and features.",
+            "path":         "and-so-i-did.mp3"
         }
     ]
 }
