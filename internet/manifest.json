@@ -188,6 +188,12 @@
             "description":  "even now the evil seed of what youve done germinates within you",
             "help":         "It germinates within you!",
             "path":         "the-evil-seed.mp3"
+        },
+        {
+            "name":         "nowyoufuckedup",
+            "description":  "oh now you fucked up wkuk whitest kids u know",
+            "help":         "Honest Abe tells it like it is.",
+            "path":         "wkuk-now-you-fucked-up.mp3"
         }
     ]
 }
