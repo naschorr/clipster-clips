@@ -104,6 +104,12 @@
             "description":  "you do not say no you do not think about it you come instantly and so i did doug demuro",
             "help":         "Now THOSE are some quirks and features.",
             "path":         "and-so-i-did.mp3"
+        },
+        {
+            "name":         "boomroasted",
+            "description":  "boom roasted the office",
+            "help":         "Boom. Roasted.",
+            "path":         "boom-roasted.mp3"
         }
     ]
 }

@@ -69,6 +69,18 @@
             "description":  "do you like big tits",
             "help":         "Do you like 'em?",
             "path":         "big-tits.mp3"
+        },
+        {
+            "name":         "coolguyclub",
+            "description":  "the cool guy club guitar riff",
+            "help":         "The Cool Guy Club!",
+            "path":         "cool-guy-club.mp3"
+        },
+        {
+            "name":         "dickdetectives",
+            "description":  "law and order theme dick detectives",
+            "help":         "These are their stories.",
+            "path":         "dick-detectives.mp3"
         }
     ]
 }

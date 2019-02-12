@@ -194,6 +194,24 @@
             "description":  "oh now you fucked up wkuk whitest kids u know",
             "help":         "Honest Abe tells it like it is.",
             "path":         "wkuk-now-you-fucked-up.mp3"
+        },
+        {
+            "name":         "future",
+            "description":  "future future future spongebob squidward",
+            "help":         "Everything's chrome in the future!",
+            "path":         "future-spongebob.mp3"
+        },
+        {
+            "name":         "disgusting",
+            "description":  "disgusting scottish mom",
+            "help":         "Well it was fokken one of yuhs!",
+            "path":         "disgusting.mp3"
+        },
+        {
+            "name":         "wow",
+            "description":  "wow wally",
+            "help":         "Wow!",
+            "path":         "wow.mp3"
         }
     ]
 }
