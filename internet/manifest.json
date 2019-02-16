@@ -212,6 +212,18 @@
             "description":  "wow wally",
             "help":         "Wow!",
             "path":         "wow.mp3"
+        },
+        {
+            "name":         "itstimetostop",
+            "description":  "its time to stop filthy frank",
+            "help":         "Where are your parents?",
+            "path":         "its-time-to-stop.mp3"
+        },
+        {
+            "name":         "thisiscancer",
+            "description":  "this is cancer filthy frank",
+            "help":         "Just stop this, please.",
+            "path":         "this-is-cancer.mp3"
         }
     ]
 }

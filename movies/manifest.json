@@ -122,6 +122,12 @@
             "description":  "buddy i am gonna shoot you in the face",
             "help":         "Buddy! I'm gonna shoot you in the FACE!",
             "path":         "shoot-you-in-the-face.mp3"
+        },
+        {
+            "name":         "groovy",
+            "description":  "groovy army of darkness",
+            "help":         "SHOP SMART, SHOP S-MART!",
+            "path":         "groovy.mp3"
         }
     ]
 }
