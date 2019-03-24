@@ -110,6 +110,18 @@
             "description":  "boom roasted the office",
             "help":         "Boom. Roasted.",
             "path":         "boom-roasted.mp3"
+        },
+        {
+            "name":         "escapingcapitalism",
+            "description":  "im escaping to the one place that hasnt been corrupted by capitalism space red alert",
+            "help":         "Space hasn't been corrupted... Yet.",
+            "path":         "escaping-capitalism.mp3"
+        },
+        {
+            "name":         "imkindaretarded",
+            "description":  "im gonna be honest with you im kinda retarded alex jones",
+            "help":         "Alex Jone's moment of self reflection.",
+            "path":         "im-kinda-retarded.mp3"
         }
     ]
 }

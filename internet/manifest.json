@@ -224,6 +224,12 @@
             "description":  "this is cancer filthy frank",
             "help":         "Just stop this, please.",
             "path":         "this-is-cancer.mp3"
+        },
+        {
+            "name":         "fbi",
+            "description":  "fbi open up",
+            "help":         "Knock knock.",
+            "path":         "fbi-open-up.mp3"
         }
     ]
 }
