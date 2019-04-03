@@ -22,12 +22,6 @@
             "path":         "ultra-humongous.mp3"
         },
         {
-            "name":         "retarded",
-            "description":  "association for retarded citizens",
-            "help":         "Association for Retarded Citizens",
-            "path":         "association-for-retarded-citizens.mp3"
-        },
-        {
             "name":         "hellnaw",
             "description":  "hell naw song",
             "help":         "Hell naw, to the naw naw naw.",
