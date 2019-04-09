@@ -118,10 +118,16 @@
             "path":         "escaping-capitalism.mp3"
         },
         {
-            "name":         "imkindaretarded",
+            "name":         "retarded",
             "description":  "im gonna be honest with you im kinda retarded alex jones",
             "help":         "Alex Jone's moment of self reflection.",
             "path":         "im-kinda-retarded.mp3"
+        },
+        {
+            "name":         "yourenotdrunk",
+            "description":  "youre just being obtuse and youre in a bad temper because youre not drunk top gear jeremy clarkson",
+            "help":         "Healthy ways to cope.",
+            "path":         "youre-being-obtuse-because-youre-not-drunk.mp3"
         }
     ]
 }
