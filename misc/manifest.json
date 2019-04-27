@@ -140,6 +140,12 @@
             "description":  "heretic heretic halo 2 grunts",
             "help":         "They know nothing of the Great Journey!",
             "path":         "heretic-halo-2-grunts.mp3"
+        },
+        {
+            "name":         "bustinnuts",
+            "description":  "i consider myself somewhat of an expert in bustin busting nuts ave",
+            "help":         "A true scholar.",
+            "path":         "expert-at-busting-nuts.mp3"
         }
     ]
 }
