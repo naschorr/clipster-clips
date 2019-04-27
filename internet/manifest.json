@@ -242,6 +242,12 @@
             "description":  "hastag real quick your being a narc right now straight up youre like ignoring me and eating chipotle in my face you know im on a hunger strike eric andre",
             "help":         "You know I'm on a hunger strike.",
             "path":         "being-a-narc-eric-andre.mp3"
+        },
+        {
+            "name":         "batin",
+            "description":  "go away batin idiocracy",
+            "help":         "A man enjoying the finer things.",
+            "path":         "go-away-batin.mp3"
         }
     ]
 }
