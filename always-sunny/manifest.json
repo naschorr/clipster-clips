@@ -104,6 +104,12 @@
             "help":         "I'm going for GASPS!",
             "description":  "you know what it is bitch",
             "path":         "you-know-what-it-is.mp3"
+        },
+        {
+            "name":         "betterthanbustin",
+            "help":         "Mac's a natural salesman",
+            "description":  "some say its better than bustin a nut",
+            "path":         "bustin.mp3"
         }
     ]
 }
