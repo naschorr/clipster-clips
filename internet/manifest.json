@@ -248,6 +248,12 @@
             "description":  "go away batin idiocracy",
             "help":         "A man enjoying the finer things.",
             "path":         "go-away-batin.mp3"
+        },
+        {
+            "name":         "terries",
+            "description":  "if you gonna be in the combat seat then you gots to be willing to blast up on some terries key and peele",
+            "help":         "You're in the combat seat!",
+            "path":         "combat-seat.mp3"
         }
     ]
 }
