@@ -250,10 +250,10 @@
             "path":         "go-away-batin.mp3"
         },
         {
-            "name":         "terries",
-            "description":  "if you gonna be in the combat seat then you gots to be willing to blast up on some terries key and peele",
-            "help":         "You're in the combat seat!",
-            "path":         "combat-seat.mp3"
+            "name":         "science",
+            "description":  "yeah science breaking bad",
+            "help":         "Yeah science!",
+            "path":         "yeah-science.mp3"
         }
     ]
 }

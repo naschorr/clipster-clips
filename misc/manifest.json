@@ -146,6 +146,12 @@
             "description":  "i consider myself somewhat of an expert in bustin busting nuts ave",
             "help":         "A true scholar.",
             "path":         "expert-at-busting-nuts.mp3"
+        },
+        {
+            "name":         "terries",
+            "description":  "if you gonna be in the combat seat then you gots to be willing to blast up on some terries key and peele",
+            "help":         "You're in the combat seat!",
+            "path":         "combat-seat.mp3"
         }
     ]
 }
