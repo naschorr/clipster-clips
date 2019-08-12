@@ -152,6 +152,12 @@
             "description":  "if you gonna be in the combat seat then you gots to be willing to blast up on some terries key and peele",
             "help":         "You're in the combat seat!",
             "path":         "combat-seat.mp3"
+        },
+        {
+            "name":         "dangerouslypolitical",
+            "description":  "dangerously political trump",
+            "help":         "Politics, in MY Discord server?",
+            "path":         "dangerously-political.mp3"
         }
     ]
 }
