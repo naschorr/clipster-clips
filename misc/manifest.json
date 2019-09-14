@@ -158,6 +158,12 @@
             "description":  "dangerously political trump",
             "help":         "Politics, in MY Discord server?",
             "path":         "dangerously-political.mp3"
+        },
+        {
+            "name":         "peoplearemonsters",
+            "description":  "because people are monsters ave",
+            "help":         "Truth at a young age.",
+            "path":         "cuz-people-are-monsters.mp3"
         }
     ]
 }

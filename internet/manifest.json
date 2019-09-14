@@ -254,6 +254,12 @@
             "description":  "yeah science breaking bad",
             "help":         "Yeah science!",
             "path":         "yeah-science.mp3"
+        },
+        {
+            "name":         "triple",
+            "description":  "oh baby a triple",
+            "help":         "Mom! Get the camera!",
+            "path":         "oh-baby-a-triple.mp3"
         }
     ]
 }
