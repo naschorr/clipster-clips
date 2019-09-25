@@ -75,6 +75,18 @@
             "description":  "law and order theme dick detectives",
             "help":         "These are their stories.",
             "path":         "dick-detectives.mp3"
+        },
+        {
+            "name":         "howdoyougetajob",
+            "description":  "how do you get a job here fuck face",
+            "help":         "He just wants a career change.",
+            "path":         "how-do-you-get-a-job-here.mp3"
+        },
+        {
+            "name":         "tata",
+            "description":  "ta ta there",
+            "help":         "Goodbye, friend.",
+            "path":         "ta-ta.mp3"
         }
     ]
 }
