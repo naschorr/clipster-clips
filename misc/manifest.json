@@ -164,6 +164,12 @@
             "description":  "because people are monsters ave",
             "help":         "Truth at a young age.",
             "path":         "cuz-people-are-monsters.mp3"
+        },
+        {
+            "name":         "buyatank",
+            "description":  "god you know if i had a dollar for every time you mentioned that god damn war i would buy a tank and blow your fat fuckin head off",
+            "help":         "Don't mention the war.",
+            "path":         "buy-a-tank.mp3"
         }
     ]
 }
