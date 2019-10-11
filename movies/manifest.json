@@ -134,6 +134,12 @@
             "description":  "its a magical day neil breen",
             "help":         "Now these are some Fateful Findings.",
             "path":         "its-a-magical-day.mp3"
+        },
+        {
+            "name":         "thattookguts",
+            "description":  "that took guts we need guts im promoting you",
+            "help":         "Working your way up the corporate ladder.",
+            "path":         "that-took-guts.mp3"
         }
     ]
 }
