@@ -87,6 +87,12 @@
             "description":  "ta ta there",
             "help":         "Goodbye, friend.",
             "path":         "ta-ta.mp3"
+        },
+        {
+            "name":         "doyoueverworry",
+            "description":  "do you ever worry if youre retarded well its true",
+            "help":         "An extra chromie for your best homie.",
+            "path":         "do-you-ever-worry.mp3"
         }
     ]
 }

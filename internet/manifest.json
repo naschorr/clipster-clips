@@ -260,6 +260,12 @@
             "description":  "oh baby a triple",
             "help":         "Mom! Get the camera!",
             "path":         "oh-baby-a-triple.mp3"
+        },
+        {
+            "name":         "whatsup",
+            "description":  "whats up fuckers",
+            "help":         "What's up friendo?",
+            "path":         "whats-up-fuckers.mp3"
         }
     ]
 }
