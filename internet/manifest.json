@@ -266,6 +266,18 @@
             "description":  "whats up fuckers",
             "help":         "What's up friendo?",
             "path":         "whats-up-fuckers.mp3"
+        },
+        {
+            "name":         "dontcough",
+            "description":  "if youre gonna cough please leave the room trump",
+            "help":         "Germ theory in action.",
+            "path":         "dont-cough.mp3"
+        },
+        {
+            "name":         "donteatbooty",
+            "description":  "booty is not on the food pyramid",
+            "help":         "It's not part of a balanced breakfast!",
+            "path":         "booty-is-not-on-the-food-pyramid.mp3"
         }
     ]
 }
