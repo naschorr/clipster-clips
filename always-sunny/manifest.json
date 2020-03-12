@@ -110,6 +110,12 @@
             "help":         "Mac's a natural salesman",
             "description":  "some say its better than bustin a nut",
             "path":         "bustin.mp3"
+        },
+        {
+            "name":         "sickness",
+            "help":         "sickness be gone",
+            "description":  "SICKNESS BE GONE!",
+            "path":         "sickness-be-gone.mp3"
         }
     ]
 }
