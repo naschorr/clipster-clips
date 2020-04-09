@@ -278,6 +278,12 @@
             "description":  "booty is not on the food pyramid",
             "help":         "It's not part of a balanced breakfast!",
             "path":         "booty-is-not-on-the-food-pyramid.mp3"
+        },
+        {
+            "name":         "menacingly",
+            "description":  "hes just standing there menacingly",
+            "help":         "He's just standing there...",
+            "path":         "standing-there-menacingly.mp3"
         }
     ]
 }
