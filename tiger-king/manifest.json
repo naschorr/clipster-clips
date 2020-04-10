@@ -1,0 +1,25 @@
+{
+    "name"          : "Tiger King",
+    "key"           : "tiger-king",
+    "description"   : "It's all because of Carole Baskin!",
+    "clips": [
+        {
+            "name":         "broke",
+            "description":  "im broke as shit",
+            "help":         "I'm broke as shit.",
+            "path":         "broke-as-shit.mp3"
+        },
+        {
+            "name":         "idc",
+            "description":  "i dont fuckin care",
+            "help":         "How many wives does he have?",
+            "path":         "i-dont-care.mp3"
+        },
+        {
+            "name":         "neverrecover",
+            "description":  "i am never gonna financially recover from this",
+            "help":         "The struggles of owning a zoo.",
+            "path":         "never-recover-financially.mp3"
+        }
+    ]
+}
