@@ -20,6 +20,12 @@
             "description":  "i am never gonna financially recover from this",
             "help":         "The struggles of owning a zoo.",
             "path":         "never-recover-financially.mp3"
+        },
+        {
+            "name":         "no",
+            "description":  "no not no but fuck no",
+            "help":         "That's a negative.",
+            "path":         "no.mp3"
         }
     ]
 }

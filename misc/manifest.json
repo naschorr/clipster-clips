@@ -170,6 +170,12 @@
             "description":  "god you know if i had a dollar for every time you mentioned that god damn war i would buy a tank and blow your fat fuckin head off",
             "help":         "Don't mention the war.",
             "path":         "buy-a-tank.mp3"
+        },
+        {
+            "name":         "arrogance",
+            "description":  "it is a monument to mans arrogance king of the hill",
+            "help":         "It's like standing on the SUN!",
+            "path":         "monument-to-arrogance.mp3"
         }
     ]
 }
