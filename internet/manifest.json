@@ -284,6 +284,12 @@
             "description":  "hes just standing there menacingly",
             "help":         "He's just standing there...",
             "path":         "standing-there-menacingly.mp3"
+        },
+        {
+            "name":         "bigsad",
+            "description":  "deep down in my heart i still love you no",
+            "help":         "A big emotional moment.",
+            "path":         "deep-down-in-my-heart-i-still-love-you-no.mp3"
         }
     ]
 }
