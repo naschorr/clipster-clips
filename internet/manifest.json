@@ -290,6 +290,12 @@
             "description":  "deep down in my heart i still love you no",
             "help":         "A big emotional moment.",
             "path":         "deep-down-in-my-heart-i-still-love-you-no.mp3"
+        },
+        {
+            "name":         "whyyoubullyme",
+            "description":  "why you bully me you fuckin bitch",
+            "help":         "Bullying isn't ok, kids.",
+            "path":         "why-you-bully-me.mp3"
         }
     ]
 }
