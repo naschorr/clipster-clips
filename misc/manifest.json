@@ -124,18 +124,6 @@
             "path":         "im-kinda-retarded.mp3"
         },
         {
-            "name":         "yourenotdrunk",
-            "description":  "youre just being obtuse and youre in a bad temper because youre not drunk top gear the grand tour jeremy clarkson",
-            "help":         "Healthy ways to cope.",
-            "path":         "youre-being-obtuse-because-youre-not-drunk.mp3"
-        },
-        {
-            "name":         "nut",
-            "description":  "and i was suddenly aware that my body could produce semen top gear the grand tour james may",
-            "help":         "A tale from James May's youth.",
-            "path":         "produce-semen-james-may.mp3"
-        },
-        {
             "name":         "heretic",
             "description":  "heretic heretic halo 2 grunts",
             "help":         "They know nothing of the Great Journey!",

@@ -1,0 +1,37 @@
+{
+    "name"          : "Top Gear",
+    "key"           : "topgear",
+    "description"   : "Ambitious, but rubbish.",
+    "clips": [
+        {
+            "name":         "shootmyself",
+            "description":  "if you had a pistol youd have shot yourself by now oh years ago",
+            "help":         "I'd have done it years ago!",
+            "path":         "youd-have-shot-yourself-years-ago.mp3"
+        },
+        {
+            "name":         "yourenotdrunk",
+            "description":  "youre just being obtuse and youre in a bad temper because youre not drunk",
+            "help":         "Healthy ways to cope.",
+            "path":         "youre-being-obtuse-because-youre-not-drunk.mp3"
+        },
+        {
+            "name":         "nut",
+            "description":  "and i was suddenly aware that my body could produce semen",
+            "help":         "A tale from James May's youth.",
+            "path":         "produce-semen-james-may.mp3"
+        },
+        {
+            "name":         "commitsuicide",
+            "description":  "ive just humiliated myself and will now commit suicide",
+            "help":         "This was very humiliating",
+            "path":         "humiliated-myself-commit-suicide.mp3"
+        },
+        {
+            "name":         "forgettheeconomy",
+            "description":  "forget the economy not important",
+            "help":         "It's not important",
+            "path":         "forget-the-economy-not-important.mp3"
+        }
+    ]
+}
