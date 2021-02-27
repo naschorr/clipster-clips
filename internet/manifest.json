@@ -296,6 +296,12 @@
             "description":  "why you bully me you fuckin bitch",
             "help":         "Bullying isn't ok, kids.",
             "path":         "why-you-bully-me.mp3"
+        },
+        {
+            "name":         "damnson",
+            "description":  "damn son whered you find this",
+            "help":         "Where'd you find this?",
+            "path":         "damn-son-whered-you-find-this.mp3"
         }
     ]
 }
